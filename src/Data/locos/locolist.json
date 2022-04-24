@@ -1,0 +1,34 @@
+[
+  {
+  "id": "AC4400CW",
+  "type": "Diesel electric"
+  },
+  {
+  "id": "SD40-2",
+  "type": "Diesel electric"
+  },
+  {
+  "id": "GP38-2",
+  "type": "Diesel electric"
+  },
+  {
+  "id": "MP36PH-3C",
+  "type": "Diesel electric"
+  },
+  {
+  "id": "F40PH-2CAT",
+  "type": "Diesel electric"
+  },
+  {
+  "id": "MP15DC",
+  "type": "Diesel electric"
+  },
+  {
+    "id": "Cab Car CT97",
+    "type": "Cab car"
+  },
+  {
+    "id": "Cab Car Bi-Level CT97",
+    "type": "Bi level cab car"
+  }
+]

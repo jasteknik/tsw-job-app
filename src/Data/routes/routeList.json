@@ -1,0 +1,43 @@
+[
+  {
+    "id": "SKA",
+    "name": "Schnellfahrstrecke Köln - Aachen",
+    "services": 61,
+    "locos": [
+      "BR185.2",
+      "BR187 DB",
+      "766.2 DBpbzfa",
+      "767.2 DABpbzfa",
+      "BR112",
+      "BR143",
+      "BR146.2"
+    ],
+    "freight": "Yes",
+    "passanger": "Yes"
+  },
+  {
+    "id": "SFJ",
+    "name": "Peninsula Corridor",
+    "services": 151,
+    "locos": [
+      "Cab Car CT97",
+      "F40PH-2CAT",
+      "MP36PH-3C",
+      "Cab Car Bi-Level CT97",
+      "GP38-2"
+    ],
+    "freight": "Yes",
+    "passanger": "Yes"
+  },
+  {
+    "id": "BKL",
+    "name": "Bakerloo Line",
+    "services": 117,
+    "locos": [
+      "1972 MkII Stock LT",
+      "1972 MkII Stock LU"
+    ],
+    "freight": "No",
+    "passanger": "Yes"
+  }
+]
