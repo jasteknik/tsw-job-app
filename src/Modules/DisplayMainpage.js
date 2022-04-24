@@ -6,6 +6,7 @@ import DisplayLocoButtons from './DisplayLocoButtons';
 import DisplayRoute from './DisplayRoute';
 import DropDownForm  from "./DropDownForm";
 import Dispatcher from "./Dispatcher";
+import DisplayServicePage from "./DisplayServicePage"
 
 const DisplayMainpage = (props) => {
   //Nothing is selected, INITIAL PAGE RENDER
